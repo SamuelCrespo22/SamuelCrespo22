@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! I'm Samuel 👋
 
-<!--
-**SamuelCrespo22/SamuelCrespo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MSc Student in AI & Data Science based in Portugal 🇵🇹
 
-Here are some ideas to get you started:
+Building on my background in *Biomedical Engineering*, I aim to bridge the gap between *Healthcare* and *AI*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently mastering the core *Data Science* stack (_pandas, numpy, scipy, scikit-learn_).
+
+---
+
+### Tools & Tech
+
+* Python, SQL, Git
+* Pandas, Numpy, Scikit-Learn
+
+---
+
+**Languages:** Native Portuguese, Fluent English, currently learning **German (A1)**.
