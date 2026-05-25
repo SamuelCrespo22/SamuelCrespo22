@@ -4,15 +4,16 @@
 
 Building on my background in *Biomedical Engineering*, I aim to bridge the gap between *Healthcare* and *AI*.
 
-Currently mastering the core *Data Science* stack (_pandas, numpy, scipy, scikit-learn_).
+Currently mastering the core *Data Science* stack (_pandas, numpy, scipy, scikit-learn, PyTorch_).
 
 ---
 
 ### Tools & Tech
 
 * Python, SQL, Git
-* Pandas, Numpy, Scikit-Learn
+* Pandas, Numpy, Scikit-Learn, PyTorch
+* Pentaho, Tableau
 
 ---
 
-**Languages:** Native Portuguese, Fluent English, currently learning **German (A1)**.
+**Languages:** Native Portuguese, Fluent English.
